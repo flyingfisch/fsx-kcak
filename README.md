@@ -1,10 +1,2 @@
 # fsx-kcak
-Akron-Canton (KCAK) for Microsoft Flight Simulator X
-
-## Installation
-
-Drop the `scenery` folder in your FSX addon scenery folder.
-
-## Screenshots
-
-![screen](screen.png)
+THIS REPO IS NO LONGER UPDATED, USE THE [fsx-northeast-ohio](https://github.com/flyingfisch/fsx-northeast-ohio) INSTEAD.
